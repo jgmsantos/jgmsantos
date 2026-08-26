@@ -8,7 +8,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 * 🏠 Sou natural de Belém do Pará, Brasil.
 * 👪 Sou casado com a Marina e temos um filho chamado Gabriel.
 * ⛅ Sou Doutor em Ciência do Sistema Terrestre (INPE) e Cientista de Dados (USP/ESALQ).
-* 📈 Sou um entusiasta de Ciência de Dados e suas aplicações no meio acadêmico.
+* 📈 Atuo com Ciência de Dados e suas aplicações em Meteorologia, Ciências Ambientais e no meio acadêmico.
 * 📊 Sou apaixonado por visualização de dados e storytelling.
 * 🌍 Sou um defensor da ciência aberta e do compartilhamento de conhecimento.
 * 🌍 Adoro esportes (rafting, rapel, trilha em montanha, andar de bicicleta, natação e corrida).
@@ -61,9 +61,13 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## 📊 Portfólio de Projetos
 
-1. Regressão Linear
+### 🚀 Data Science Portfolio
 
-2. Clusterização K-Means
+Projetos de Ciência de Dados, Estatística, Machine Learning,
+Séries Temporais, Geoprocessamento e aplicações em
+Meteorologia e Ciências Ambientais.
+
+[![Data Science Portfolio](https://img.shields.io/badge/📊%20Data%20Science%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgmsantos/data-science-portfolio)
 
 ---
 
