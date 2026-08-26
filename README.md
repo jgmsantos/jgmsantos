@@ -13,10 +13,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 * 🌍 Sou um defensor da ciência aberta e do compartilhamento de conhecimento.
 * 🌍 Adoro esportes (rafting, rapel, trilha em montanha, andar de bicicleta, natação e corrida).
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmsantos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgmsantos&hide_progress=false&theme=radical&layout=compact)
-
 ---
 
 ## 🐍 Linguagens e Bibliotecas
