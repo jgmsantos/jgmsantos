@@ -61,7 +61,9 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 
 ## 📊 Portfólio de Projetos
 
-Em construção...
+1. Regressão Linear
+
+2. Clusterização K-Means
 
 ---
 
