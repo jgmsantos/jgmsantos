@@ -31,6 +31,8 @@ O portfólio reúne estudos e aplicações práticas, com foco em
 análise exploratória, modelagem estatística, aprendizado de máquina,
 análise de séries temporais, visualização e interpretação de dados.
 
+Clique no link abaixo para acessar os projetos:
+
 [![Data Science Portfolio](https://img.shields.io/badge/📊%20Data%20Science%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgmsantos/data-science-portfolio)
 
 ---
